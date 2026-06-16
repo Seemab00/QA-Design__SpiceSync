@@ -36,9 +36,10 @@
 
 **Simaab Malik**  
 SAP ID: 54910  
-BS Software Engineering, 6th Semester  
+BS Software Engineering  
 Riphah International University  
-**Supervisors**: Ma'am Habiba Khatoon, Ma'am Shumaila
+**Supervisor**: Ma'am Habiba, Ma'am Shumaila  
+**Session**: Spring 2026 - 6th Sem
 
 ---
 
